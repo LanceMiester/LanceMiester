@@ -1,8 +1,3 @@
-- Hello I’m Lance
-- I am a person
-- i like building things that do something
-- How to reach me: Discord Lance#2017 Email Lancemiester@outlook.com 
-- thats about it
 
 
 <!---
